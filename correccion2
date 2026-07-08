@@ -1,0 +1,9 @@
+    if categoria in productos:
+        print("\n--- Productos ---")
+        for clave, (nombre, precio) in productos[categoria].items():
+            print(f"{clave}. {nombre} - ${precio}")
+
+        prod = input("Elija el producto (1-8): ")
+
+        if prod in productos[categoria]:
+            nombre, precio_item = productos[categoria][prod]
