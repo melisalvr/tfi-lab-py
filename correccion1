@@ -1,0 +1,32 @@
+productos = {
+    "1": {  # Comidas
+        "1": ("Hamburguesa completa", 5000),
+        "2": ("Pizza especial", 7000),
+        "3": ("Lomo completo", 8500),
+        "4": ("Docena de empanadas", 6000),
+        "5": ("Milanesa con papas fritas", 6500),
+        "6": ("Sandwich de bondiola", 7500),
+        "7": ("Tarta de jamón y queso", 4000),
+        "8": ("Ensalada César", 4500),
+    },
+    "2": {  # Bebidas
+        "1": ("Gaseosa 1L", 2000),
+        "2": ("Agua mineral 1L", 1500),
+        "3": ("Cerveza artesanal 1L", 3500),
+        "4": ("Limonada natural", 1800),
+        "5": ("Agua saborizada 1.5L", 2200),
+        "6": ("Gaseosa 500ml", 1200),
+        "7": ("Vino tinto de la casa", 4000),
+        "8": ("Jugo de naranja exprimido", 1600),
+    },
+    "3": {  # Postres
+        "1": ("Helado 1/4 kg", 3000),
+        "2": ("Flan mixto", 2500),
+        "3": ("Porción de Chocotorta", 3500),
+        "4": ("Tiramisú", 3200),
+        "5": ("Brownie con helado", 3800),
+        "6": ("Ensalada de frutas", 2000),
+        "7": ("Cheesecake de frutos rojos", 4000),
+        "8": ("Volcán de chocolate", 4500),
+    },
+}
